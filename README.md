@@ -14,7 +14,7 @@ node js api created based on the rocketseat playlist
 <a target="_blank">https://insomnia.rest/download/<a>
  
 * <H3>Auth</H3>
- 	____________________**<p> to register a new user:(POST)</p>**______________________
+ 	<hr><b><p> to register a new user:(POST)</p><b>______________________
 
 	```
 	//http://localhost:7314/auth/register
