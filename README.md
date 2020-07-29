@@ -24,3 +24,14 @@ node js api created based on the rocketseat playlist
 	"password": "Kevin123"
 }
 ```
+
+<p> to register a new user:(POST)</p>
+
+```
+//http://localhost:7314/auth/register
+{ 
+	"name": "r",
+	"email": "test-ipo@Su.com.br",
+	"password": "Kevin123"
+}
+```
