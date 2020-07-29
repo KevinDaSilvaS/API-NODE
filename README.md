@@ -25,13 +25,12 @@ node js api created based on the rocketseat playlist
 }
 ```
 
-<p> to register a new user:(POST)</p>
+<p> authenticate:(POST)</p>
 
 ```
-//http://localhost:7314/auth/register
-{ 
-	"name": "r",
-	"email": "test-ipo@Su.com.br",
-	"password": "Kevin123"
+//http://localhost:7314/auth/authenticate
+{
+	"email": "otg-da@silva.com",
+	"password": "kevinnewpassword"
 }
 ```
