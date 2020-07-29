@@ -5,6 +5,7 @@ node js api created based on the rocketseat playlist
 <p> - run the command at the terminal</p>
 ```
 npm install
+
 ```
 <hr>
 <p> - run the project</p>
