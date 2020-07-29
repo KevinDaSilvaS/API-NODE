@@ -15,11 +15,8 @@ node js api created based on the rocketseat playlist
  
  <H3>Auth</H3>
  <p> to register a new user:(POST)</p>
-```javascript
 
 ```
-
-```javascript
 //http://localhost:7314/auth/register
 { 
 	"name": "r",
