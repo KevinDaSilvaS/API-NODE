@@ -106,7 +106,7 @@ node js api created based on the rocketseat playlist
 	
 	<hr>
 	<b>
-	<p> delete project:(PUT)</p></b>
+	<p> delete project:(DELETE)</p></b>
 
 	```
 	//http://localhost:7314/projects/::projectId
