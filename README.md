@@ -23,3 +23,11 @@ http://localhost:7314/auth/register
 	"password": "Kevin123"
 }
 ```
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
