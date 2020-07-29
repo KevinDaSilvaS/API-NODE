@@ -11,7 +11,7 @@ node js api created based on the rocketseat playlist
 
 <H2>Routes</H2>
 <p> - theres a json file containing all the routes to use and test the project on insomnia</p>
-<a target="_blank" href"https://insomnia.rest/download/"> link to download insomnia</a>
+<a target="_blank" href"https://insomnia.rest/download/"> https://insomnia.rest/download/</a><br>
 <a target="_blank" href"https://insomnia.rest/download/"> link of jsob file</a>
  
 * <H3>Auth</H3>
