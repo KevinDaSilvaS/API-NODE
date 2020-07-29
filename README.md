@@ -34,3 +34,23 @@ node js api created based on the rocketseat playlist
 	"password": "kevinnewpassword"
 }
 ```
+
+<p> forgot password:(POST)</p>
+
+```
+//http://localhost:7314/auth/forgot_password
+{
+	"email": "otg-da@silva.com"
+}
+```
+
+<p> reset password:(PATCH)</p>
+
+```
+//http://localhost:7314/auth/reset_password
+{
+	"email": "otg-da@silva.com",
+  	"token": "1d87b5727e2523a0931eee96056721f753063c74",
+	"password": "kevinnewpassword"
+}
+```
