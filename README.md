@@ -2,14 +2,11 @@
 node js api created based on the rocketseat playlist
 
 <H2>To run the project</H2>
-<p> - run the command at the terminal</p>
+<p> - run the commands at the terminal</p>
 
 ```
-<p> npm install</p>
+ npm install
+ node src/index
 ```
-<hr>
-<p> - run the project</p>
-```
-<p> node src/index</p>
-```
+
 
