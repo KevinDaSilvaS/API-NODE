@@ -14,7 +14,7 @@ node js api created based on the rocketseat playlist
 <a target="_blank">https://insomnia.rest/download/<a>
  
 * <H3>Auth</H3>
- 	* <p> to register a new user:(POST)</p>
+ 	<p> to register a new user:(POST)</p>
 
 	```
 	//http://localhost:7314/auth/register
@@ -25,32 +25,32 @@ node js api created based on the rocketseat playlist
 	}
 	```
 
-<p> authenticate:(POST)</p>
+	<p> authenticate:(POST)</p>
 
-```
-//http://localhost:7314/auth/authenticate
-{
-	"email": "otg-da@silva.com",
-	"password": "kevinnewpassword"
-}
-```
+	```
+	//http://localhost:7314/auth/authenticate
+	{
+		"email": "otg-da@silva.com",
+		"password": "kevinnewpassword"
+	}
+	```
 
-<p> forgot password:(POST)</p>
+	<p> forgot password:(POST)</p>
 
-```
-//http://localhost:7314/auth/forgot_password
-{
-	"email": "otg-da@silva.com"
-}
-```
+	```
+	//http://localhost:7314/auth/forgot_password
+	{
+		"email": "otg-da@silva.com"
+	}
+	```
 
-<p> reset password:(PATCH)</p>
+	<p> reset password:(PATCH)</p>
 
-```
-//http://localhost:7314/auth/reset_password
-{
-	"email": "otg-da@silva.com",
-  	"token": "1d87b5727e2523a0931eee96056721f753063c74",
-	"password": "kevinnewpassword"
-}
-```
+	```
+	//http://localhost:7314/auth/reset_password
+	{
+		"email": "otg-da@silva.com",
+		"token": "1d87b5727e2523a0931eee96056721f753063c74",
+		"password": "kevinnewpassword"
+	}
+	```
