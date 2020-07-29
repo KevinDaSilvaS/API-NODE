@@ -35,8 +35,9 @@ node js api created based on the rocketseat playlist
 		"password": "kevinnewpassword"
 	}
 	```
-
-	<p> forgot password:(POST)</p>
+	<hr>
+	<b>
+	<p> forgot password:(POST)</p></b>
 
 	```
 	//http://localhost:7314/auth/forgot_password
@@ -44,8 +45,9 @@ node js api created based on the rocketseat playlist
 		"email": "otg-da@silva.com"
 	}
 	```
-
-	<p> reset password:(PATCH)</p>
+	<hr>
+	<b>
+	<p> reset password:(PATCH)</p></b>
 
 	```
 	//http://localhost:7314/auth/reset_password
