@@ -16,18 +16,14 @@ node js api created based on the rocketseat playlist
  <H3>Auth</H3>
  <p> to register a new user:(POST)</p>
 ```javascript
-http://localhost:7314/auth/register
+
+```
+
+```javascript
+//http://localhost:7314/auth/register
 { 
 	"name": "r",
 	"email": "test-ipo@Su.com.br",
 	"password": "Kevin123"
-}
-```
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
 }
 ```
